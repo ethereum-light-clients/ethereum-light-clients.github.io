@@ -1,14 +1,6 @@
 ---
-layout: default
-title: "ethereum light clients"
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
-
-# ethereum light clients
-
-## events
-
-light-client-summit-0
-
-where: [bvb](https://beursvanberlage.com/) at [devconnect, amsterdam 2022](https://devconnect.org/)
-
-when: 4/20/22
