@@ -1,5 +1,5 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+theme: minima
+domain: lightclients.xyz       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://lightclients.xyz  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "ethereum light clients" # the name of your site, e.g. ACME Corp.
-
-theme: minima

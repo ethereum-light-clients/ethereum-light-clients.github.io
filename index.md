@@ -9,6 +9,6 @@ title: "ethereum light clients"
 
 light-client-summit-0
 
-where: bvb, https://beursvanberlage.com/ at [devconnect, amsterdam 2022](https://devconnect.org/)
+where: [bvb](https://beursvanberlage.com/) at [devconnect, amsterdam 2022](https://devconnect.org/)
 
 when: 4/20/22
