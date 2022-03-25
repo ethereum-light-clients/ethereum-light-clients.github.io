@@ -32,4 +32,4 @@ if your application is selected, you will receive further instructions on how to
 
 a livestream will stream the morning sessions for those who cannot physically make the event or those who could not be accommodated due to capacity limitations.
 
-* update 2022-03-16: we have hit capacity for the event, please email `stokes+light.client.summit@ethereum.org` if you would like to be put on the waiting list.
+* update 2022-03-16: we have hit capacity! please fill out this form to be added to the waiting list:  https://forms.gle/wbti4zXjg1SqN2Uk8
