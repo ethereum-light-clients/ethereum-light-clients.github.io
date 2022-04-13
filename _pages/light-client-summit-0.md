@@ -22,7 +22,7 @@ talks will take place in the morning session (10am-12pm local time) with a light
 
 the afternoon (1pm-4pm local time) is reserved for focused working groups with the intention to make progress on the state of the light client ecosystem.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpq2iPJUyQgnfISdL69IXeofjPUR3Br4cdLg__eRydzmSCVRXprtFVjn91r4Hny3xWL1Kg8ywSpn4w/pubhtml?gid=82759338&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="width: 100%; height: 400px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpq2iPJUyQgnfISdL69IXeofjPUR3Br4cdLg__eRydzmSCVRXprtFVjn91r4Hny3xWL1Kg8ywSpn4w/pubhtml?gid=82759338&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Register for the event
 
